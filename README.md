@@ -26,7 +26,7 @@ A full-stack web application that allows users to submit and view ratings for st
 
 ### Backend
 ```bash
-cd store-rating-system/backend
+cd backend
 npm install
 
 # Optional: Seed the database with sample data
@@ -38,7 +38,7 @@ npm start
 
 ### Frontend
 ```bash
-cd store-rating-system/frontend
+cd frontend
 npm install
 
 # Start the development server
